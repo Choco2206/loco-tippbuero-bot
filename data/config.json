@@ -1,1 +1,17 @@
-
+{
+  "guildId": "",
+  "roleId": "",
+  "channels": {
+    "anmeldung": "",
+    "regeln": "",
+    "tipprunden": "",
+    "rangliste": "",
+    "stammtisch": ""
+  },
+  "settings": {
+    "timezone": "Europe/Berlin",
+    "predictionCloseMinutesBeforeKickoff": 5,
+    "dailyPostHour": 10,
+    "dailyPostMinute": 0
+  }
+}
